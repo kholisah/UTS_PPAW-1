@@ -1,0 +1,3 @@
+#Aplikasi ini digunakan untuk mengatasi hal-hal yang ada pada sebuah toko buku pada umumnya meliputi : 
+Master Data (Data Kategori Buku, Data Buku, Data Suplier), Transaksi (Transaksi Pembelian Buku dan transaksi penjualan buku), 
+Laporan (Laporan data kategori buku, laporan data buku, laporan data suplier, laporan pembelian dan laporan penjualan) dan didukung oleh beberapa fitur lainnya. 
